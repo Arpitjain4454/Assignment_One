@@ -1,6 +1,6 @@
 Question 1:-
 Write a program that takes as input an array of positive and negative numbers (0 excluded). The objective is to
-return those items from the array whose sum is 0. If no such items exist return “No Elements found”
+return those items from the array whose sum is 0. If no such items exist return “No Elements found”.
 
 import java.util.*;
 
